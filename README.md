@@ -41,8 +41,32 @@ Data cleaning and pre-processing were handled using Excel. The following cleanin
 split timestamp columns into separate date and time columns for the following datasets
 - minuteSleep_merged
 - weightLogInfo_merged
-# Analysis 
-- Activity: To understand the activity levels of users who collected their Fitbit data. I wanted to examine how active the users that wore their Fitbit daily were. This analysis explored users’ activity patterns, categorized users based on their activity levels (very, moderately or less active) and examined their activity behavior between the weekdays and the weekends.
-- Sleep x Activity: Get an understanding of users sleep and activity behavior. Were the users who tracked sleep more active than those who did not? I examined how many users tracked their sleep, how much sleep they were getting on average and if sleep behaviors on the weekends and the weekdays differed
-- Weightx Activity x Sleep: In this analysis, I wanted to understand how users that engaged with the weight tracking feature, engaged with the rest of the Fitbit tracking ecosystem (activity and sleep). I examined who were the users that tracked weight data and examined their behavioral patterns compare to those who did not use this feature at all.
+# Analysis
+## Activity
+To understand the activity levels of users who collected their Fitbit data. I wanted to examine how active the users that wore their Fitbit daily were. This analysis explored users’ activity patterns, categorized users based on their activity levels (very, moderately or less active) and examined their activity behavior between the weekdays and the weekends.
+## Sleep x Activity
+Get an understanding of users sleep and activity behavior. Were the users who tracked sleep more active than those who did not? I examined how many users tracked their sleep, how much sleep they were getting on average and if sleep behaviors on the weekends and the weekdays differed
+## Weight x Activity x Sleep
+ In this analysis, I wanted to understand how users that engaged with the weight tracking feature, engaged with the rest of the Fitbit tracking ecosystem (activity and sleep). I examined who were the users that tracked weight data and examined their behavioral patterns compare to those who did not use this feature at all.
 # Key Findings 
+User mainly utilized the activity tracking feature of the Fitbit product. 35 users logged their activity data compared to 23 users tracking sleep and 11 tracking weight data. 
+
+<img width="468" height="257" alt="image" src="https://github.com/user-attachments/assets/074b35e5-1f5d-4179-8c32-50880b804915" />
+
+Majority (68.6%, n=24) of users tracking their activity data with the Fitbit device were categorized as ‘less active’ users. 
+
+<img width="468" height="244" alt="image" src="https://github.com/user-attachments/assets/f039c56b-9f10-47d1-ad64-d664d5ae1c45" />
+
+Users’ activity levels remained consistent over the weekdays and the weekends. Of the 13 users (37%) whose activity levels shifted, we saw a movement towards greater activity minutes for the weekday’s vs the weekends. 
+
+<img width="459" height="264" alt="image" src="https://github.com/user-attachments/assets/e59383c8-2f60-4f81-a057-8b8ca6167025" />
+
+Activity level is not strongly related to user sleep behavior. On average, users classified as ‘very active’ get the same amount of sleep as ‘less active’ users. 
+
+<img width="468" height="317" alt="image" src="https://github.com/user-attachments/assets/581118b1-500d-4659-9d2e-6fdaf378a8eb" />
+
+# Conclusion
+Fitness devices alone are not enough to get consumers into living an active lifestyle. From the analysis conducted we saw that 68% of the users were categorized as ‘less active’. This means that the average user was not in the very active zone for at least 30 mins in a month. With the leaf product, we want to promote our users to move. Sending out movement reminders, health information update reminders and having challenges where they can move and compete with friends could motivate our users to live a less sedentary lifestyle. 
+
+**Based off these findings, we’d need to add in more data focused on the Bellabeat customer base. The data we looked at was anonymized and we did not have any demographics information to guide our findings. Since Bellabeat’s target audience is women, we’d need to identify more data from that demographic to better understand our customer niche. By adding more data with the specific target audience, we’d have a better understanding of how-to best market to the Bellabeat audience.**  
+
