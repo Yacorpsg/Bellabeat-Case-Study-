@@ -1,6 +1,4 @@
 # Bellabeat-Case-Study-
-Capstone project for the Google Data Analytics professional certification. This project involved analyzing Fitbit data to understand user patterns and behaviors. These insights were then used to provide high level recs to help Bellabeat unlock their growth potential.  
-# Background
 Bellabeat is a high-tech manufacturer of health-focused products for women. They are a successful small company looking to become a larger player in the global smart device market. The company has invested in traditional advertising media, such as radio, out-of-home billboards, print, and television, but focuses on digital marketing extensively. Bellabeat invests year-round in Google Search, maintaining active Facebook and Instagram pages, and consistently engages consumers on Twitter. Additionally, Bellabeat runs video ads on YouTube and display ads on the Google Display Network to support campaigns around key marketing dates. Cofounder and Chief Creative Officer of Bellabeat, Urška Sršen, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company
 # This report walks through
 - Description of data sources used
