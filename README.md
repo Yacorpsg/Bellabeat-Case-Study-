@@ -1,5 +1,5 @@
 # Bellabeat-Case-Study-
-Capstone project for the Google Data Analytics professional certification. This project involved analyzing Fitbit data to understand user patterns and behaviors. These insights were then used to provide high level marketing recs to help Bellabeat unlock their growth potential.  
+Capstone project for the Google Data Analytics professional certification. This project involved analyzing Fitbit data to understand user patterns and behaviors. These insights were then used to provide high level recs to help Bellabeat unlock their growth potential.  
 # Background
 Bellabeat is a high-tech manufacturer of health-focused products for women. They are a successful small company looking to become a larger player in the global smart device market. The company has invested in traditional advertising media, such as radio, out-of-home billboards, print, and television, but focuses on digital marketing extensively. Bellabeat invests year-round in Google Search, maintaining active Facebook and Instagram pages, and consistently engages consumers on Twitter. Additionally, Bellabeat runs video ads on YouTube and display ads on the Google Display Network to support campaigns around key marketing dates. Cofounder and Chief Creative Officer of Bellabeat, Urška Sršen, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company
 # This report walks through
@@ -49,7 +49,7 @@ Get an understanding of users sleep and activity behavior. Were the users who tr
 ## Weight x Activity x Sleep
  In this analysis, I wanted to understand how users that engaged with the weight tracking feature, engaged with the rest of the Fitbit tracking ecosystem (activity and sleep). I examined who were the users that tracked weight data and examined their behavioral patterns compare to those who did not use this feature at all.
 # Key Findings 
-User mainly utilized the activity tracking feature of the Fitbit product. 35 users logged their activity data compared to 23 users tracking sleep and 11 tracking weight data. 
+Users' mainly utilized the activity tracking feature of the Fitbit product. 35 users logged their activity data compared to 23 users tracking sleep and 11 tracking weight data. 
 
 <img width="468" height="257" alt="image" src="https://github.com/user-attachments/assets/074b35e5-1f5d-4179-8c32-50880b804915" />
 
